@@ -47,3 +47,4 @@ fi
 if [ "$INFO" != "$NEWINFO" ]; then
     echo "$NEWINFO" >"$FILE"
 fi
+created by Mr.Crypto (Janob Abdulhamidxon
